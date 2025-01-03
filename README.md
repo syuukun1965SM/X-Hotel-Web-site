@@ -1,4 +1,4 @@
 # X Hote Web Site creation
 gitの練習
 2つの環境(iMacとWinPC)で個別編集した。
-RepoB(mac)側での作業実施。
+RepoB(mac)側での作業完了。
